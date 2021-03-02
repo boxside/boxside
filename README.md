@@ -9,4 +9,4 @@
 
 ### HEY!, Wanna see my portofolios?
 
-👇 **DATA ANALYSIS & DATA ENGINERING**👇  ____________________ || ____________________         👇**MACHINE LEARNING & DEEP LEARNING**👇
+👇 **DATA ANALYSIS & DATA ENGINEERING**👇  ____________________ || ____________________         👇**MACHINE LEARNING & DEEP LEARNING**👇
